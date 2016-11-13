@@ -1,0 +1,15 @@
+c:\users\tbarl\documents\visual studio 2015\Projects\KanjiCardSandbox\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\tbarl\documents\visual studio 2015\Projects\KanjiCardSandbox\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\tbarl\documents\visual studio 2015\Projects\KanjiCardSandbox\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\tbarl\documents\visual studio 2015\Projects\KanjiCardSandbox\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\tbarl\documents\visual studio 2015\Projects\KanjiCardSandbox\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\tbarl\documents\visual studio 2015\Projects\KanjiCardSandbox\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\My stuff\KanjiCardSandbox\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\My stuff\KanjiCardSandbox\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\My stuff\KanjiCardSandbox\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\My stuff\My projects old\KanjiCardSandbox\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\My stuff\My projects old\KanjiCardSandbox\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\My stuff\My projects old\KanjiCardSandbox\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\My stuff\My projects old\KanjiCardSandbox\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\My stuff\My projects old\KanjiCardSandbox\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\My stuff\My projects old\KanjiCardSandbox\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
